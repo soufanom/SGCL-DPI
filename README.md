@@ -14,8 +14,7 @@ Clone the repository and navigate to the project directory:
 ```bash
 git clone https://github.com/your-username/SGCL-DPI.git
 cd SGCL-DPI
-
-pip install -r requirements.txt
+```
 
 ## 📦 Install the Required Dependencies
 
