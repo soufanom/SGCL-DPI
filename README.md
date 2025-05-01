@@ -11,10 +11,8 @@ This repository contains the implementation of SGCL-DPI, which combines:
 
 Clone the repository and navigate to the project directory:
 
-```bash
 git clone https://github.com/your-username/SGCL-DPI.git
 cd SGCL-DPI
-```
 
 ## 📦 Install the Required Dependencies
 
@@ -56,7 +54,6 @@ All scripts required for generating these files are located in the `simgraphmake
 
 Navigate to the `simgraphmaker` directory and run:
 
-```bash
 cd simgraphmaker
 python simgraphmaker.py
 
@@ -67,7 +64,6 @@ This step creates structural similarity graphs for both drugs and proteins, whic
 
 Run the following commands:
 
-```bash
 cd simgraphmaker
 python feature_similarity_computer.py
 python similarity_threshold_processor.py
@@ -95,7 +91,6 @@ you can run the SGCL-DPI model.
 
 Navigate to the `gcns/` directory and execute the training script:
 
-```bash
 cd gcns
 python sgcl_dpi.py
 
