@@ -21,7 +21,7 @@ cd SGCL-DPI
 Install all necessary Python packages using:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 SGCL-DPI/
 ├── chemprotlinker/
